@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Projects/MYSELF/C++/1-basic/winnowing.h
+stdint.h
+-
+
+/home/ubuntu/Projects/MYSELF/C++/1-basic/winnowing.i
+../../../winnowing.h
+/home/ubuntu/Projects/winnowing.h
+typemaps.i
+/home/ubuntu/Projects/MYSELF/C++/1-basic/typemaps.i
+stdint.i
+/home/ubuntu/Projects/MYSELF/C++/1-basic/stdint.i
+winnowing.h
+/home/ubuntu/Projects/MYSELF/C++/1-basic/winnowing.h
+

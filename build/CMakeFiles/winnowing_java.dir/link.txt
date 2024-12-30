@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libwinnowing_java.so -o libwinnowing_java.so CMakeFiles/winnowing_java.dir/CMakeFiles/winnowing_java.dir/winnowingJAVA_wrap.c.o CMakeFiles/winnowing_java.dir/winnowing.c.o  -Wl,-rpath,/usr/lib/jvm/default-java/lib:/usr/lib/jvm/default-java/lib/server /usr/lib/jvm/default-java/lib/libjawt.so /usr/lib/jvm/default-java/lib/server/libjvm.so 
