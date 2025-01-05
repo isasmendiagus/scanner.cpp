@@ -4,5 +4,9 @@
 
 #include "fingerprint.h"
 
-namespace scanoss {
-} // scanoss
+class Winnowing {
+private:
+
+public:
+
+};

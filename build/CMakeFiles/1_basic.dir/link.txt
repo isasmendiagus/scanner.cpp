@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/1_basic.dir/main.cpp.o CMakeFiles/1_basic.dir/winnowing.c.o -o 1_basic  /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.83.0 

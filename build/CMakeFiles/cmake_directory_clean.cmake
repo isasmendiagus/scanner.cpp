@@ -1,9 +1,0 @@
-file(REMOVE_RECURSE
-  "CMakeFiles/winnowing_python.dir/winnowingPYTHON_wrap.c"
-  "winnowing.py"
-  "CMakeFiles/winnowing_python.dir/winnowingPYTHON.stamp"
-  "CMakeFiles/winnowing_java.dir/winnowingJAVA_wrap.c"
-  "winnowing.java"
-  "winnowingJNI.java"
-  "CMakeFiles/winnowing_java.dir/winnowingJAVA.stamp"
-)

@@ -1,5 +1,0 @@
-/home/ubuntu/Projects/MYSELF/C++/1-basic/cmake-build-debug/CMakeFiles/1_basic.dir
-/home/ubuntu/Projects/MYSELF/C++/1-basic/cmake-build-debug/CMakeFiles/winnowing_python.dir
-/home/ubuntu/Projects/MYSELF/C++/1-basic/cmake-build-debug/CMakeFiles/winnowing_java.dir
-/home/ubuntu/Projects/MYSELF/C++/1-basic/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ubuntu/Projects/MYSELF/C++/1-basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

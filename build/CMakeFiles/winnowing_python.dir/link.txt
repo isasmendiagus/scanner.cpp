@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,_winnowing_python.so -o _winnowing_python.so CMakeFiles/winnowing_python.dir/CMakeFiles/winnowing_python.dir/winnowingPYTHON_wrap.c.o CMakeFiles/winnowing_python.dir/winnowing.c.o  -Wl,-rpath,/home/ubuntu/.pyenv/versions/3.8.19/lib /home/ubuntu/.pyenv/versions/3.8.19/lib/libpython3.8.so 
