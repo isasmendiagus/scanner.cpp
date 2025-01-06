@@ -1,0 +1,2 @@
+/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
