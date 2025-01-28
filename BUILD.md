@@ -42,3 +42,12 @@ node-gyp configure # First time running node-gyp
 node-gyp build
 
 ```
+
+
+### Build & Test
+
+```bash
+cmake -B build -DBUILD_TESTING=ON && cd build && make && ctest
+```
+
+***NOTE***: Improve building system using CMakePresets
