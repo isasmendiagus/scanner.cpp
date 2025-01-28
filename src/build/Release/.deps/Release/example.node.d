@@ -1,0 +1,1 @@
+cmd_Release/example.node := c++ -bundle -undefined dynamic_lookup -Wl,-search_paths_first -mmacosx-version-min=10.15 -arch arm64 -L./Release -stdlib=libc++  -o Release/example.node Release/obj.target/example/example.o Release/obj.target/example/example_wrap.o 

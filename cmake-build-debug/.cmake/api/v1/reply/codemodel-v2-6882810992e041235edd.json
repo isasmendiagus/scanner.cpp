@@ -32,8 +32,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug",
-		"source" : "/home/ubuntu/Projects/SCANOSS/scanner.cpp"
+		"build" : "/Users/agus/Public/projects/scanoss/scanner.cpp/cmake-build-debug",
+		"source" : "/Users/agus/Public/projects/scanoss/scanner.cpp"
 	},
 	"version" : 
 	{
