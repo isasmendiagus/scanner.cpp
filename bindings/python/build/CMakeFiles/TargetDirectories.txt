@@ -1,0 +1,4 @@
+/home/ubuntu/Projects/SCANOSS/scanner.cpp/bindings/python/build/CMakeFiles/scanoss_python.dir
+/home/ubuntu/Projects/SCANOSS/scanner.cpp/bindings/python/build/CMakeFiles/scanoss_python_swig_compilation.dir
+/home/ubuntu/Projects/SCANOSS/scanner.cpp/bindings/python/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Projects/SCANOSS/scanner.cpp/bindings/python/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared  -o python/_scanoss.so  -Wl,-rpath,/home/ubuntu/.pyenv/versions/3.8.19/lib -lscanoss_core /home/ubuntu/.pyenv/versions/3.8.19/lib/libpython3.8.so 
