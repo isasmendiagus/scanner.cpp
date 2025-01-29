@@ -51,3 +51,60 @@ cmake -B build -DBUILD_TESTING=ON && cd build && make && ctest
 ```
 
 ***NOTE***: Improve building system using CMakePresets
+
+
+### Structure for SDK and usage
+
+```c++
+// Base SDK class that contains the submodules
+class SDK {
+public:
+    // Access to submodules
+    ScanModule& scan() { return scan_; }
+    ReportModule& report() { return report_; }
+    FingerprintModule& fingerprint() { return fingerprint_; }
+
+private:
+    ScanModule scan_;
+    ReportModule report_;
+    FingerprintModule fingerprint_;
+};
+
+// Submodule classes
+class ScanModule {
+public:
+    ScanResult file(const std::string& path);
+    ScanResult folder(const std::string& path);
+    ScanResult crypto(const std::string& path);
+};
+
+class ReportModule {
+public:
+    void generateHtml(const ScanResult& result);
+    void generateSbom(const ScanResult& result, SbomFormat format);
+    void generateJson(const ScanResult& result);
+};
+
+class FingerprintModule {
+public:
+    std::string getFileFingerprint(const std::string& path);
+    std::string getFolderFingerprint(const std::string& path);
+};
+```
+
+Usage in JS:
+```js
+// JavaScript
+const sdk = new scanoss.ScanossSDK();
+const result = sdk.scan().file("myfile.cpp");
+sdk.reporter().generateHtml(result);
+```
+
+Usage in python:
+```python
+# Python
+sdk = scanoss.ScanossSDK()
+result = sdk.scan().file("myfile.cpp")
+sdk.report().generate_html(result)
+```
+

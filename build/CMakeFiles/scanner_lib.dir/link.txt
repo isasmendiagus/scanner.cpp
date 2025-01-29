@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscanner_lib.a CMakeFiles/scanner_lib.dir/src/fingerprint/string_source.cpp.o CMakeFiles/scanner_lib.dir/src/fingerprint/file_source.cpp.o
+/usr/bin/ranlib libscanner_lib.a

@@ -1,0 +1,3 @@
+StringSourceTest.ReadsSimpleStringCompletely 1 0.0033966
+StringSourceTest.ReturnsEndOfContentWhenEmpty 1 0.00368749
+---

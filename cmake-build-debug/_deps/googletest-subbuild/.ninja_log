@@ -1,0 +1,21 @@
+# ninja log v6
+8	742	1738093052377951034	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	222f778f7602c6cf
+773	780	1738093052416950340	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8b79d590d851e22d
+773	780	1738093052416950340	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	8b79d590d851e22d
+8	742	1738093052377951034	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	222f778f7602c6cf
+747	752	1738093052388950838	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8e7aa9f9c767a0b7
+773	780	1738093052416950340	CMakeFiles/googletest-populate-complete	8b79d590d851e22d
+742	747	1738093052383950928	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	2d02e6fdef72c92b
+752	757	1738093052393950749	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	53cb31351cd3ed6c
+752	757	1738093052393950749	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	53cb31351cd3ed6c
+762	767	1738093052403950571	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	fc368deca660b96e
+747	752	1738093052388950838	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	8e7aa9f9c767a0b7
+1	8	1738093051643964112	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fe2b1ee7d1e67f88
+773	780	1738093052416950340	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8b79d590d851e22d
+762	767	1738093052403950571	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	fc368deca660b96e
+757	762	1738093052398950660	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f001f62dc4159e7b
+1	8	1738093051643964112	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	fe2b1ee7d1e67f88
+767	773	1738093052408950482	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3eff6ee68bf84b36
+742	747	1738093052383950928	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	2d02e6fdef72c92b
+757	762	1738093052398950660	/home/ubuntu/Projects/SCANOSS/scanner.cpp/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f001f62dc4159e7b
+767	773	1738093052408950482	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	3eff6ee68bf84b36

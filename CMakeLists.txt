@@ -30,6 +30,7 @@ set(HEADER_FILES
 
 set(MAIN_SOURCE
         src/main.cpp
+        sdk/scan_module.hpp
 )
 
 # Create library for our sources
